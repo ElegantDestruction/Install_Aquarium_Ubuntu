@@ -10,7 +10,7 @@ apt-get install libcurses-perl
 # Switch to /tmp, download, and unpack animation code
 cd /tmp
 wget http://search.cpan.org/CPAN/authors/id/K/KB/KBAUCOM/Term-Animation-2.4.tar.gz
-tar -zxcf Term-Animation-2.4.tar.gz
+tar -zxvf Term-Animation-2.4.tar.gz
 
 # Switch to unpack dir, and 'make' animation
 cd Term-Animation-2.4/
