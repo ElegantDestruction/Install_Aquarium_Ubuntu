@@ -5,8 +5,9 @@ NOTE: This is not my work, this is simply an installer script to make installing
 For more information, please see https://robobunny.com/projects/asciiquarium/html/
 
 To install:
-1) Download the zip file to your ~/Downloads directory
-2) unzip it with "unzip Install_Aquarium_Ubuntu.zip"
+1) cd to ~/Downloads
+2) type "git clone https://github.com/ElegantDestruction/Install_Aquarium_Ubuntu.git"
+3) cd into Install_Aquarium_Ubuntu/
 3) type "sudo ./get_aquarium"
 4) Enter your password
 5) When the installer finishes, type "asciiaquarium" to view your fishies
